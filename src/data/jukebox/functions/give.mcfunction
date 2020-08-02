@@ -1,0 +1,1 @@
+give @s rabbit_spawn_egg{display:{Name:'{"text":"不思議なジュークボックス","color":"gold","bold":true,"italic":true}'},EntityTag:{id:"minecraft:armor_stand",NoGravity:1b,Marker:1b,Invisible:1b,Tags:["JukeBoxGen"],DisabledSlots:4144959}} 1
